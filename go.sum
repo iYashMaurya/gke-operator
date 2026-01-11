@@ -1039,8 +1039,8 @@ github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/iYashMaurya/lasso v0.0.0-20251229045230-e8b5b0ffb53d h1:vOkLvrZ2AnOeUHW0/KPczfyhcHxiRpvjOrp6llbx2V4=
 github.com/iYashMaurya/lasso v0.0.0-20251229045230-e8b5b0ffb53d/go.mod h1:svOYqeyBo4gQmXbwtPkJHvLpTx5auSa+wVmzoXT9f2k=
-github.com/iYashMaurya/wrangler/v3 v3.0.0-20251229090358-2a0ac2717b07 h1:p5G3hn9Of3XX6uTT8eCKyuCd2QG9Z+3ALbZ7ivH8TLM=
-github.com/iYashMaurya/wrangler/v3 v3.0.0-20251229090358-2a0ac2717b07/go.mod h1:2Vdo0eiot8ZAiwx83riIXO0NmslCwFCiMHxpKcyiM34=
+github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b h1:orcAz3c0DGIMyH6Jy3FurLpdMGK7ADJaJanb3n4ggJo=
+github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b/go.mod h1:e5BY+A3gvuWpyKpg87BKmG6eemUoP/CH8x6TD09OjLg=
 github.com/iancoleman/strcase v0.2.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/ianlancetaylor/demangle v0.0.0-20200824232613-28f6c0f3b639/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
